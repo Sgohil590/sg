@@ -48,5 +48,5 @@ esac
 echo "Verifying Node.js installation..."
 node -v
 npm  -v
-
+# this work is done
 echo "Script execution completed."
