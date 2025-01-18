@@ -15,3 +15,5 @@ usermod -aG sudo "$USERNAME"
 
 # Print a message indicating the user has been created
 echo "User $USERNAME created and added to the sudo group with root privileges."
+# This task is done.
+# 
